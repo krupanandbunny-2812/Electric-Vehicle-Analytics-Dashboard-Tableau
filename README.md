@@ -95,8 +95,5 @@ Executive Decision-Making: Simplifies complex EV data into intuitive visuals for
 Show what the dashboard looks like. [Alt text](https://github.com/username/repo/assets/image.nos)
  ## 📸 Dashboard Snapshots
 
-![Dashboard View ]()
+![Dashboard View ](https://github.com/krupanandbunny-2812/Electric-Vehicle-Analytics-Dashboard-Tableau/blob/main/Snapshot%20of%20the%20Electric%20Vehicle%20Analytics%20Dashboard%20page%20.png)
 
-
-
-Just tell me 👍
